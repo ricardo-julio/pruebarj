@@ -1,0 +1,19 @@
+body{
+    background-color: aqua;
+}
+
+
+*{
+    background:#03001c0f;
+}
+
+.row1 {
+    border: 2px solid  rgb(130, 77, 255);
+    border-radius: 18px;
+    color: rgb(247, 0, 255);
+    background-color: #ffffff;
+}
+
+/* .carousel-item{
+    border-radius: 50vh;
+} 
